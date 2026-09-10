@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(228, 226, 226);
+}
+table{
+    border-collapse: collapse;
+    border: 5px dashed yellow;
+    margin: 0 auto;
+}
+th, td{
+    border: 2px solid green;
+    text-align: center;
+    padding: 20px 30px;
+}
+#jeden{
+    border: 3px dashed pink;
+    background-color: gold;
+}
+#dwa{
+    border: 3px dotted red;
+    background-color: gold;
+}
+#trzy{
+    border: 3px groove blue;
+    background-color: gold;
+}
+#kolor1{
+    background-color: rgb(245, 209, 6);
+}
+#kolor2{
+    background-color: rgb(28, 119, 199);
+}
+#kolor3{
+    background-color: rgb(11, 204, 53);
+}
+#kolor3{
+    background-color: rgb(238, 75, 0);
+}
+#kolor4{
+    background-color: rgb(255, 0, 234);
+}
+#kolor5{
+    background-color: rgb(253, 0, 127);
+}
+#kolor6{
+    background-color: rgb(102, 255, 0);
+}
+#kolor7{
+    background-color: rgb(88, 65, 13);
+}
+#kolor8{
+    background-color: rgb(163, 3, 255);
+}
+#kolor9{
+    background-color: rgb(66, 92, 26);
+}
+#kolor10{
+    background-color: rgb(52, 0, 121);
+}
+#kolor11{
+    background-color: rgb(255, 60, 0);
+}
+#kolor12{
+    background-color: rgb(211, 120, 150);
+}
+#kolor13{
+    background-color: rgb(18, 224, 156);
+}
+#kolor14{
+    background-color: rgb(193, 228, 129);
+}
+#kolor15{
+    background-color: rgb(133, 52, 86);
+}
